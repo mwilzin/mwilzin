@@ -1,5 +1,6 @@
 ## Hey 👋, This is Marc
-[![Gmail Badge](https://img.shields.io/badge/-marcaurel-w@online.de-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcaurel-w@online.de)](mailto:marcaurel-w@online.de) [![Github Badge](https://img.shields.io/badge/-triggeredLife-grey?style=flat&logo=github&logoColor=white&link=https://github.com/triggeredLife/)](https://www.github.com/triggeredLife/) [![Twitter Badge](https://img.shields.io/badge/-triggeredLife1-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/triggeredLife1/)](https://www.twitter.com/triggeredLife1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/triggeredLife/)](https://github.com/triggeredLife/) <p align='left'>Hey, I'm Marc aka triggeredLife, I am 14 years old and I code since I'm 9.
+[![Github Badge](https://img.shields.io/badge/-triggeredLife-grey?style=flat&logo=github&logoColor=white&link=https://github.com/triggeredLife/)](https://www.github.com/triggeredLife/) [![Twitter Badge](https://img.shields.io/badge/-triggeredLife1-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/triggeredLife1/)](https://www.twitter.com/triggeredLife1/)
+<p align='left'>Hey, I'm Marc aka triggeredLife, I am 14 years old and I code since I'm 9.
 I started with Swift Playgrounds and the Lego Mindstorms Robot.
 Currently I'm working on a small Store for Beta Apps, called https://beta-app-store.com (big brain).</p>
 ## Some of my Github Stats
