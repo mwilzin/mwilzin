@@ -1,24 +1,10 @@
-### Hi there 👋, my name is Marc
-#### aka triggeredLife
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+## Hey 👋, This is Marc
+[![Gmail Badge](https://img.shields.io/badge/-marcaurel-w@online.de-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcaurel-w@online.de)](mailto:marcaurel-w@online.de) [![Github Badge](https://img.shields.io/badge/-triggeredLife-grey?style=flat&logo=github&logoColor=white&link=https://github.com/triggeredLife/)](https://www.github.com/triggeredLife/) [![Twitter Badge](https://img.shields.io/badge/-triggeredLife1-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/triggeredLife1/)](https://www.twitter.com/triggeredLife1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/triggeredLife/)](https://github.com/triggeredLife/) <p align='left'>Hey, I'm Marc aka triggeredLife, I am 14 years old and I code since I'm 9.
+I started with Swift Playgrounds and the Lego Mindstorms Robot.
+Currently I'm working on a small Store for Beta Apps, called https://beta-app-store.com (big brain).</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=triggeredLife alt=triggeredLife /> </p>
 
-Skills: HTML, CSS, JS, NodeJs, Python, Bash
+[![Github stats](https://github-readme-stats.vercel.app/api?username=triggeredLife&show_icons=true&include_all_commits=true)](https://github.com/triggeredLife/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triggeredLife&layout=compact)](https://github.com/triggeredLife/github-readme-stats)
 
-- 🔭 I’m currently working on BetaStore 
-- 🌱 I’m currently learning Swift 
-- 📫 How to reach me: Discord (triggeredLife#1182) 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/triggeredLife)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/triggeredLife1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/triggeredLife_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://beta-app-store.com)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=triggeredLife)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triggeredLife)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/triggeredLife)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=triggeredLife)  
-
-![Profile views](https://gpvc.arturio.dev/triggeredLife)  
