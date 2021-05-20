@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A young developer from Germany</h3>
 
-- 🔭 I’m currently working on [BetaStore](https://beta-app-store.com)
+- 🔭 I’m currently working on [TVL Tennis App](https://github.com/triggeredLife/tvl_tennis)
 
 - 🌱 I’m currently learning **Swift**
 
